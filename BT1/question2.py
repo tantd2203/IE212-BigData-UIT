@@ -16,6 +16,7 @@ transDF = spark.read.options(delimiter=',').schema(
 joined_df = custDF.join(transDF,on=['cust_id'], how='inner')
 joined_df = joined_df.withColumn("month", F.date_format(F.to_date("date", "MM-dd-yyyy"), "MM"))
 
+
 # Group by month and first_name, and sum the amount
 result_df = joined_df.groupby("month", "first_name").agg(F.sum("amount").alias("total_amount"))
 

@@ -2,9 +2,9 @@ import pyspark
 from pyspark.sql import functions as F
 from pyspark.sql import SparkSession
 from pyspark.sql.window import Window
-
-spark = SparkSession.builder.appName("tancute").getOrCreate()
 from pyspark.sql.functions import col, month
+spark = SparkSession.builder.appName("tancute").getOrCreate()
+
 
 custDF = spark.read.options(delimiter=',').schema(
     'cust_id INT, first_name STRING, last_name STRING, age INT, major STRING').csv("data/cust.txt")
