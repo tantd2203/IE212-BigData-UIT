@@ -1,5 +1,6 @@
 from kafka import KafkaConsumer
-topic_name = 'items'
-consumer = KafkaConsumer(topic_name)
-for message in consumer:
-    print(message.value.decode('utf-8'))
+import json
+import time
+producer = KafkaConsumer( bootstrap_servers='localhost:9092', maxbock_ms =5000)   
+
+producer.send('users_create', b'Hello, Kafka!')
