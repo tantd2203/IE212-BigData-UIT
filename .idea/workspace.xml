@@ -6,11 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="62cdb3ba-844b-4400-bdc1-8671c4a1c7fd" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kafka-Python/KafkaConsumer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Kafka-Python/KafkaConsumer.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kafka-Python/KafkaProducer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Kafka-Python/KafkaProducer.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kafka/tutorial12/STREAM_WORK-Module.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Kafka/tutorial12/STREAM_WORK-Module.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kafka/tutorial12/producer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Kafka/tutorial12/producer.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kafka/tutorial12/spotify_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/Kafka/tutorial12/spotify_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kafka/tutorial-6/KafkaConsumer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Kafka/tutorial-6/KafkaConsumer.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kafka/tutorial-6/KafkaProducer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Kafka/tutorial-6/KafkaProducer.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +43,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/UIT/BigData/IE212-BigData-UIT/Kafka/tutorial-6&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/UIT/BigData/kafkaml-anomaly-detection&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -118,6 +115,14 @@
       <workItem from="1715400123684" duration="6579000" />
       <workItem from="1715407268703" duration="932000" />
       <workItem from="1715414150098" duration="2771000" />
+      <workItem from="1715419391472" duration="626000" />
+      <workItem from="1715426676735" duration="30000" />
+      <workItem from="1715608609924" duration="273000" />
+      <workItem from="1716211448226" duration="595000" />
+      <workItem from="1716214146806" duration="623000" />
+      <workItem from="1716265931980" duration="189000" />
+      <workItem from="1716266167255" duration="2028000" />
+      <workItem from="1716450060455" duration="435000" />
     </task>
     <servers />
   </component>
